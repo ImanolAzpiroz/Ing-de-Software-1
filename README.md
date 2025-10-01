@@ -15,6 +15,6 @@ Apuntes, teoría, practica de la materia.
 - Practica
     - [Practica 1 - Tecnicas de ELicitacion de Requerimientos](/Practica/Practica%201/)
     - [Practica 2 - Historias de Usuario](/Practica/Practica%202/)
-    - [Practica 3 - Casos de Uso]()
-    - [Practica 4 - ]()
-    -
+    - [Practica 3 - Casos de Uso](/Practica/Practica%203/)
+    - [Practica 4 - ](/Practica/Practica%204/)
+    - [Practica 5 - ](/Practica/Practica%205/)
